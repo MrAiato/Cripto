@@ -1,0 +1,201 @@
+
+12-05-2024 13:21:39 [croptogx.gamenix.store][info] Parent plugin start installation!
+12-05-2024 13:21:39 [croptogx.gamenix.store][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+12-05-2024 13:21:39 [croptogx.gamenix.store][info] Parent plugin installation complete!
+-------------------------------
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] Start cron job. Scope: media-library
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/wio_backup)
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/wio_backup/2024/04)
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42-removebg-preview.png) to a remote server (server_1).
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42-removebg-preview-150x150.png) to a remote server (server_1).
+12-05-2024 13:23:37 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:38 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42-removebg-preview-300x185.png) to a remote server (server_1).
+12-05-2024 13:23:38 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:38 [croptogx.gamenix.store][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"16","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":272148,"final_size":81102,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":197270,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509418}
+12-05-2024 13:23:38 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/hand-pointing-currency-blockchain-technology-background-scaled.jpg) to a remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/hand-pointing-currency-blockchain-technology-background-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/hand-pointing-currency-blockchain-technology-background-300x200.jpg) to a remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"17","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":295852,"final_size":176728,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":246020,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509419}
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42.jpg) to a remote server (server_1).
+12-05-2024 13:23:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:40 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:23:40 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:40 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/photo_2024-04-02_13-35-42-300x185.jpg) to a remote server (server_1).
+12-05-2024 13:23:40 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:23:40 [croptogx.gamenix.store][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"18","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75826,"final_size":75707,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":56793,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509420}
+12-05-2024 13:23:40 [croptogx.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:23 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+12-05-2024 13:24:24 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:24 [croptogx.gamenix.store][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"37","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509464}
+12-05-2024 13:24:24 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+12-05-2024 13:24:24 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:24 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/cropped-photo_2024-04-02_13-35-42-removebg-preview.png) to a remote server (server_1).
+12-05-2024 13:24:24 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:25 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/cropped-photo_2024-04-02_13-35-42-removebg-preview-150x150.png) to a remote server (server_1).
+12-05-2024 13:24:25 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:25 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/cropped-photo_2024-04-02_13-35-42-removebg-preview-300x185.png) to a remote server (server_1).
+12-05-2024 13:24:25 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:25 [croptogx.gamenix.store][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"55","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":258196,"final_size":81073,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":183318,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509465}
+12-05-2024 13:24:25 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708806.jpeg) to a remote server (server_1).
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708806-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708806-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:26 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:27 [croptogx.gamenix.store][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"69","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":74583,"final_size":74583,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":58536,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509467}
+12-05-2024 13:24:27 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+12-05-2024 13:24:27 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:27 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708811.jpeg) to a remote server (server_1).
+12-05-2024 13:24:27 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:27 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708811-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7708811-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:28 [croptogx.gamenix.store][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"70","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":85019,"final_size":85019,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":68902,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509468}
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:28 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14354107.jpeg) to a remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14354107-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14354107-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:29 [croptogx.gamenix.store][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"71","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":132224,"final_size":132210,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":108114,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509469}
+12-05-2024 13:24:29 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567443.jpeg) to a remote server (server_1).
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567443-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567443-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:30 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:31 [croptogx.gamenix.store][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"72","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":136984,"final_size":136796,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":110660,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509471}
+12-05-2024 13:24:31 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+12-05-2024 13:24:31 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:31 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-8919571.jpeg) to a remote server (server_1).
+12-05-2024 13:24:31 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:31 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-8919571-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-8919571-200x300.jpeg) to a remote server (server_1).
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:32 [croptogx.gamenix.store][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"73","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":108369,"final_size":108106,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":79910,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509472}
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:32 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567554.jpeg) to a remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567554-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567554-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:33 [croptogx.gamenix.store][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"74","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127014,"final_size":126944,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":101667,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509473}
+12-05-2024 13:24:33 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14751274.jpeg) to a remote server (server_1).
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14751274-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-14751274-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:34 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:35 [croptogx.gamenix.store][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"75","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":132209,"final_size":132088,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":106174,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509475}
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567556.jpeg) to a remote server (server_1).
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567556-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:35 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:36 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567556-300x200.jpeg) to a remote server (server_1).
+12-05-2024 13:24:36 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:36 [croptogx.gamenix.store][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"76","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106773,"final_size":106773,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":85389,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509476}
+12-05-2024 13:24:36 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+12-05-2024 13:24:36 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:36 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567536.jpeg) to a remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567536-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-7567536-200x300.jpeg) to a remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:37 [croptogx.gamenix.store][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"77","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":100873,"final_size":100680,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":73935,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509477}
+12-05-2024 13:24:37 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-4960438.jpeg) to a remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-4960438-150x150.jpeg) to a remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/pexels-photo-4960438-300x169.jpeg) to a remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:38 [croptogx.gamenix.store][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"78","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":111384,"final_size":111311,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":87299,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509478}
+12-05-2024 13:24:38 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/wio_backup/2023/08)
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-01.jpg) to a remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-01-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-01-300x276.jpg) to a remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:39 [croptogx.gamenix.store][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"90","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":93321,"final_size":61005,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":67986,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509479}
+12-05-2024 13:24:39 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-02.jpg) to a remote server (server_1).
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-02-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:40 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-02-300x276.jpg) to a remote server (server_1).
+12-05-2024 13:24:41 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:42 [croptogx.gamenix.store][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"91","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":38163,"final_size":31970,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":23302,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509482}
+12-05-2024 13:24:42 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+12-05-2024 13:24:42 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:42 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-03.jpg) to a remote server (server_1).
+12-05-2024 13:24:42 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:42 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-03-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/article-03-300x276.jpg) to a remote server (server_1).
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:43 [croptogx.gamenix.store][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"92","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":130248,"final_size":97882,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":92894,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509483}
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:43 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/stage-speaker.jpg) to a remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/stage-speaker-150x150.jpg) to a remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2023/08/stage-speaker-300x150.jpg) to a remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:44 [croptogx.gamenix.store][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"99","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":37051,"final_size":36300,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27546,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509484}
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] Start bulk optimization process! Scope: media-library
+12-05-2024 13:24:44 [croptogx.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/croptogx/wp-content/uploads/2024/04/default.png) to a remote server (server_1).
+12-05-2024 13:24:45 [croptogx.gamenix.store][info] File successfully uploaded to remote server (server_1).
+12-05-2024 13:24:45 [croptogx.gamenix.store][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"111","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":168,"final_size":168,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":168,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715509485}
+12-05-2024 13:24:45 [croptogx.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
